@@ -13,3 +13,11 @@ Instale as dependências usando o pip
 ```bash
 pip install requirements.txt 
 ```
+
+## Uso
+
+Execute no seu terminal:
+
+```bash
+python main.py
+```
